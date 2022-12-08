@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
 # Here is the name of your lib.
-# When you change the lib name, change also on System.loadLibrary("") under OnCreate method on StaticActivity.java
+# When you change the lib name, change also on System.loadLibrary("") under OnCreate method on Mainactivity.java
 # Both must have same name
 LOCAL_MODULE    := hook64
 
