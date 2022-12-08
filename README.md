@@ -1,7 +1,3 @@
-# Hooking-library-Android
-This is a open source project for hooking function from any apps on runtime not for root environment 
-Just for educational perpose.
-
 # And64InlineHook
 Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++   
 
